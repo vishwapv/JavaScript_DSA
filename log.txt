@@ -1,0 +1,154 @@
+num: 74
+
+
+num: 1
+num: 3
+num: 4
+ 3rd condition remainder is 0: 4
+num: 5
+ 1st condition: 1
+ 3rd condition remainder is 0: 6
+num: 7
+num: 2
+ 3rd condition remainder is 0: 8
+num: 9
+num: 10
+ 3rd condition remainder is 0: 10
+num: 11
+num: 12
+ 3rd condition remainder is 0: 12
+num: 13
+num: 14
+ 3rd condition remainder is 0: 14
+num: 15
+num: 16
+ 3rd condition remainder is 0: 16
+num: 17
+2nd condition equal to 2: 2
+ 3rd condition remainder is 0: 18
+num: 19
+num: 20
+ 3rd condition remainder is 0: 20
+num: 21
+num: 22
+ 3rd condition remainder is 0: 22
+num: 23
+ 3rd condition remainder is 0: 24
+num: 24
+num: 8
+num: 26
+ 3rd condition remainder is 0: 26
+num: 27
+num: 18
+ 3rd condition remainder is 0: 28
+num: 29
+num: 30
+ 3rd condition remainder is 0: 30
+num: 31
+num: 32
+ 3rd condition remainder is 0: 32
+num: 33
+ 3rd condition remainder is 0: 34
+num: 34
+num: 35
+num: 36
+ 3rd condition remainder is 0: 36
+num: 37
+num: 38
+ 3rd condition remainder is 0: 38
+num: 39
+num: 28
+num: 6
+num: 41
+num: 42
+ 3rd condition remainder is 0: 42
+num: 43
+num: 44
+ 3rd condition remainder is 0: 44
+num: 45
+ 3rd condition remainder is 0: 46
+ 3rd condition remainder is 0: 40
+num: 25
+ 3rd condition remainder is 0: 48
+num: 48
+num: 49
+num: 50
+num: 47
+num: 51
+num: 52
+ 3rd condition remainder is 0: 52
+num: 53
+num: 54
+ 3rd condition remainder is 0: 54
+num: 55
+ 3rd condition remainder is 0: 56
+num: 56
+num: 57
+num: 58
+ 3rd condition remainder is 0: 58
+num: 59
+num: 40
+ 3rd condition remainder is 0: 60
+num: 61
+num: 62
+ 3rd condition remainder is 0: 62
+num: 63
+num: 64
+ 3rd condition remainder is 0: 64
+num: 65
+ 3rd condition remainder is 0: 66
+num: 66
+num: 67
+num: 60
+ 3rd condition remainder is 0: 50
+num: 69
+num: 46
+ 3rd condition remainder is 0: 70
+num: 71
+num: 72
+ 3rd condition remainder is 0: 72
+num: 70
+num: 74
+ 3rd condition remainder is 0: 74
+num: 68
+ 3rd condition remainder is 0: 76
+num: 75
+num: 73
+ 3rd condition remainder is 0: 78
+num: 78
+num: 79
+num: 77
+ 3rd condition remainder is 0: 80
+num: 81
+num: 80
+ 3rd condition remainder is 0: 68
+num: 83
+num: 84
+ 3rd condition remainder is 0: 84
+ 3rd condition remainder is 0: 82
+num: 86
+ 3rd condition remainder is 0: 86
+num: 87
+num: 88
+ 3rd condition remainder is 0: 88
+num: 89
+num: 90
+ 3rd condition remainder is 0: 90
+num: 91
+num: 92
+ 3rd condition remainder is 0: 92
+num: 93
+num: 85
+ 3rd condition remainder is 0: 94
+ 3rd condition remainder is 0: 96
+num: 94
+num: 95
+num: 97
+num: 98
+ 3rd condition remainder is 0: 98
+num: 99
+num: 100
+ 3rd condition remainder is 0: 100
+num: 76
+num: 96
+num: 82
