@@ -7,7 +7,7 @@ function search(arr, target, left, right) {
         return -1;
     }
     let mid = Math.floor((left + right) / 2);
-    console.log("mid elememt", mid);
+    console.log("mid elememts", mid);
     if (target === arr[mid]) {
         return mid;
 
